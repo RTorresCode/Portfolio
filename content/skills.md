@@ -46,3 +46,8 @@ draft: false
 #### Libraries
 - React.js
 - Material UI
+
+#### Soft Skills
+- Teamwork
+- Communication
+- Collaboration
