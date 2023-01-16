@@ -1,0 +1,62 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Jr. Software Developer"
+theme = 'anatole'
+
+[params]
+title = "Ramon Torres"
+author = "Ramon Torres"
+description = """
+Jr. Software Developer
+New York, NY
+"""
+profilePicture = "images/pic.jpg"
+mainSections = []
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/rtorrescode"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "LinkedIn"
+url = "https://linkedin.com/in/rtorres5318"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "E-mail"
+url = "mailto:rtorres5318@gmail.com"
+
+[menu]
+
+	[[menu.main]]
+	name = "About"
+	identifier = "about"
+	weight = 300
+	url = "/"
+	
+	[[menu.main]]
+	name = "Certifications"
+	identifier = "certifications"
+	weight = 300
+	url = "/certifications/"
+	
+	[[menu.main]]
+	name = "Experience"
+	identifier = "experience"
+	weight = 300
+	url = "/experience/"
+	
+	[[menu.main]]
+	name = "Portfolio"
+	identifier = "portfolio"
+	weight = 300
+	url = "/portfolio/"
+	
+	[[menu.main]]
+	name = "Skills"
+	identifier = "skills"
+	weight = 300
+	url = "/skills/"
+

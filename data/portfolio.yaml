@@ -1,0 +1,16 @@
+portfolioitems:
+  - title: Coding Projects
+    portfolioitem:
+      - name: Photography Portfolio Website
+        image: '/images/portfolio/SV-Photography.png/'
+        link: https://svphotography.onrender.com
+        description: 'A photography portfolio website that I developed for a client. Created using the MERN technology stack (MongoDB, Express.js, React.js, Node.js). Has full pagination features, as well as a search feature that searches by photo name or by tag(s).'
+        tags:
+          - WebDev
+          - MERN
+          - JSONWebTokens
+        status: 'Finished'
+        start: 'July 2022'
+        end: 'August 2022'
+        authors:
+          - Ramon Torres
