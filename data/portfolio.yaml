@@ -2,7 +2,7 @@ portfolioitems:
   - title: Coding Projects
     portfolioitem:
       - name: Photography Portfolio Website
-        image: '/images/portfolio/SV-Photography.png/'
+        image: '/images/portfolio/SV-Photography.jpg/'
         link: https://svphotography.onrender.com
         description: 'A photography portfolio website that I developed for a client. Created using the MERN technology stack (MongoDB, Express.js, React.js, Node.js). Has full pagination features, as well as a search feature that searches by photo name or by tag(s).'
         tags:
