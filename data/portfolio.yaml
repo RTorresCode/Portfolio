@@ -4,7 +4,7 @@ portfolioitems:
       - name: Photography Portfolio Website
         image: 'images/portfolio/SV-Photography.jpg'
         link: https://svphotography.onrender.com
-        description: 'A photography portfolio website that I developed for a client. Created using the MERN technology stack (MongoDB, Express.js, React.js, Node.js). Has full pagination features, as well as a search feature that searches by photo name or by tag(s).'
+        description: 'A photography portfolio website that I developed for a client. Created using the MERN technology stack (MongoDB, Express.js, React.js, Node.js). Has full pagination features, as well as a search feature that searches by photo name or by tag(s). Dynamic components were created using Material UI, and React-Redux was used for state management. RESTful API has full CRUD functionality.'
         tags:
           - WebDev
           - MERN

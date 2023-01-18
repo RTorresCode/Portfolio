@@ -23,7 +23,7 @@ draft: false
 - MySQL
 
 #### Platforms
-- AWS
+- Amazon Web Services (AWS)
 
 #### Version Management
 - Git
@@ -42,6 +42,7 @@ draft: false
 - Express.js
 - React-Redux
 - Hugo
+- MVC
 
 #### Libraries
 - React.js

@@ -9,8 +9,7 @@ draft: false
 #### _Host/Maitre D'_
 2012 - 2017
 
-- Managed and maintained restaurant's digital reservation book
-- Provided impeccable service to over 300 guests per night in a high-pressure, fast-paced environment
-- Responsible for training dozens of newly-hired hosts/hostesses
-- Communicated and collaborated with other staff members in order to provide guests with a pleasant dining experience
-- Personally made changes to the way express takeout orders were handled, resulting in less confusion in the kitchen and a noticeable decrease in wait time for guests
+- Provided services to over 300 guests per night in a high-pressure, fast-paced environment
+- Responsible for training dozens of newly hired hosts/hostesses
+- Frequently communicated and collaborated with other staff members in order to provide guests with a pleasant dining experience
+- Personally made changes to express takeout order process, resulting in less confusion in the kitchen and a noticeable decrease in wait time for guests
