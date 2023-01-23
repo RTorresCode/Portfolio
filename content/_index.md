@@ -20,3 +20,5 @@ Feel free to reach out to me via LinkedIn, GitHub, or E-mail me directly. All of
 Thank you for visiting my website, and I hope you enjoy your stay!
 
 \- Ramon
+
+_This website was built using Hugo with the [Anatole](https://themes.gohugo.io/themes/anatole) theme._
