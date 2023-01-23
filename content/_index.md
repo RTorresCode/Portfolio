@@ -21,4 +21,4 @@ Thank you for visiting my website, and I hope you enjoy your stay!
 
 \- Ramon
 
-_This website was built using Hugo with the [Anatole](https://themes.gohugo.io/themes/anatole) theme._
+_This website was built with the [Anatole](https://themes.gohugo.io/themes/anatole) theme for Hugo._
