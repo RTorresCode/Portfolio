@@ -15,13 +15,13 @@ Some of my hobbies are video games (I'm a big fan of RPGs), playing the Yu-Gi-Oh
 
 I have an unquenchable thirst for knowledge, so I always have something that I'm trying to learn, or improve at.
 
-Feel free to reach out to me via LinkedIn, GitHub, or E-mail me directly. All of my contact links can be found underneath my picture.
-
 ## What I'm working on
 
-Right now I'm in the process of learning the Java programming language, and then I intend on learning some Java frameworks like Spring and SpringBoot. Afterwards, I plan on developing a simple project using Java and posting that in the Portfolio section. Stay tuned for updates on that.
+Right now I'm in the process of learning the Java programming language, and then I intend on learning some Java frameworks (Spring, Spring Boot). Afterwards, I plan on developing a simple project using Java and posting that in the Portfolio section. Stay tuned for updates on that.
 
 ---
+
+Feel free to reach out to me via LinkedIn, GitHub, or E-mail me directly. All of my contact links can be found underneath my picture.
 
 Thank you for visiting my website, and I hope you enjoy your stay!
 
